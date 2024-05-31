@@ -33,7 +33,7 @@ function App() {
     <section>
       {randomQuestions.map(({ question, options }, questionIndex) => (
         <div key={questionIndex} className='pregunta'>
-          <h1>{question}</h1>
+          <h3>{question}</h3>
           <form className="respuestas">
             {options.map(({ text, correct }, optionIndex) => (
               <div key={optionIndex}>

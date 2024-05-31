@@ -1767,6 +1767,549 @@ export const data = [
         "correct": true
       }
     ]
+  },
+  {
+    "question": "Entre las causas de la inflación se pueden mencionar:",
+    "options": [
+      {
+        "text": "La disminución del costo de factores de producción.",
+        "correct": false
+      },
+      {
+        "text": "El incremento de la oferta en caso de un incentivo en la producción.",
+        "correct": false
+      },
+      {
+        "text": "La disminución del tipo de cambio considerando que la materia prima utilizada es importada.",
+        "correct": false
+      },
+      {
+        "text": "La rigidez de la oferta, por ejemplo en el sector agropecuario y ganadero.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "En economía, a través de la intervención estatal:",
+    "options": [
+      {
+        "text": "Solamente se establecen precios máximos.",
+        "correct": false
+      },
+      {
+        "text": "Los precios máximos benefician a los productores.",
+        "correct": false
+      },
+      {
+        "text": "Establece el funcionamiento de la Administración Pública.",
+        "correct": false
+      },
+      {
+        "text": "Se regulan procedimientos, productos y mercados.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Un sistema de cambio fijo es aquel en el que el tipo de cambio es determinado enteramente por el mercado, mientras que un sistema de cambio dirigido es aquel en el que el valor de algunas monedas fluctúa libremente y el de otras es el resultado de la intervención del estado en el mercado.",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A través de la regulación se lleva a cabo el control de entrada y salida de mercados, tal como, la oferta del producto, el control de precios y calidades, la protección del ambiente, el otorgamiento de licencias, permisos, autorizaciones",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De las funciones Consumo y Ahorro, es correcto afirmar que la suma de la propensión marginal al consumo y la propensión marginal al ahorro es siempre mayor que 1",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "El nivel general de precios, se expresa mediante índices de precios y son una medida de los precios actuales de un conjunto representativo de bienes y servicios, calculados en términos relativos respecto a un año base y ponderados conforme a la proporción de consumo de cada bien en un periodo determinado.",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Respecto del Ahorro, considerado en economía como Inversión, se puede afirmar que:",
+    "options": [
+      {
+        "text": "La Inversión de Neta Interna representa el valor de la depreciación de los bienes de capital.",
+        "correct": false
+      },
+      {
+        "text": "Un aumento en la Inversión Bruta Interna implica una disminución del Producto Bruto Interno (PBI).",
+        "correct": false
+      },
+      {
+        "text": "La inversión Neta Interna se calcula como la diferencia entre la Inversión Bruta Interna y la Inversión de Reposición.",
+        "correct": true
+      },
+      {
+        "text": "Un país progresa cuando la Inversión Neta Interna es menor a cero.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "La Renta Nacional se define como el Producto Nacional Neto a costo de factores (PNNcf) y puede calcularse desde el producto, desde el ingreso o desde el gasto, obteniéndose el mismo resultado en términos monetarios.",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "La Balanza de Pagos:",
+    "options": [
+      {
+        "text": "En la cuenta corriente registra la balanza comercial (exportaciones e importaciones) y la balanza de servicios, entre los que se incluye el turismo y las comunicaciones.",
+        "correct": true
+      },
+      {
+        "text": "En la cuenta de capital se registran transacciones de montos importantes como turismo, transporte y comunicaciones.",
+        "correct": false
+      },
+      {
+        "text": "Se puede definir como una serie de registros contables sistematizados de las transacciones propias del sector público.",
+        "correct": false
+      },
+      {
+        "text": "En la cuenta de capital se registran las importaciones.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "La definición de Producto Bruto Interno (PBI):",
+    "options": [
+      {
+        "text": "Prescinde de los costes ecológicos y sociales.",
+        "correct": true
+      },
+      {
+        "text": "Incluye las destrucciones ocasionadas por catástrofes naturales, pero no las reconstrucciones.",
+        "correct": false
+      },
+      {
+        "text": "Considera las desigualdades en la distribución de la riqueza y género.",
+        "correct": false
+      },
+      {
+        "text": "Incluye una valoración de la calidad de vida de los habitantes de una región.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "En caso de déficit de la Balanza de Pagos, el gobierno puede:",
+    "options": [
+      {
+        "text": "Incrementar las reservas, a cargo del Banco Central de la República Argentina",
+        "correct": false
+      },
+      {
+        "text": "Prestar dinero a otros países y recibir el interés.",
+        "correct": false
+      },
+      {
+        "text": "Adquirir bienes de capital y registrarlos en la Cuenta Corriente.",
+        "correct": false
+      },
+      {
+        "text": "Solicitar financiamiento a Bancos u Organismos Internacionales.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Cuando el tipo de cambio de un país desciende en relación con la moneda de otro país, la moneda nacional sufre una apreciación y la extranjera una depreciación.",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Un impuesto se considera progresivo cuando:",
+    "options": [
+      {
+        "text": "El porcentaje para aportar no depende de la renta del contribuyente.",
+        "correct": false
+      },
+      {
+        "text": "A mayor renta del contribuyente aporta un porcentaje menor.",
+        "correct": false
+      },
+      {
+        "text": "Todos los contribuyentes aportan un monto igual.",
+        "correct": false
+      },
+      {
+        "text": "A mayor renta del contribuyente aporta un porcentaje mayor.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "El efecto fiscal de la inflación se produce ante el aumento de los ingresos nominales de los trabajadores en relación de dependencia, que ingresan a categorías superiores de aportes impositivos (impuesto a las ganancias) generando una disminución del ingreso disponible de los consumidores. Se genera un aumento del déficit público por disminución de la recaudación fiscal.",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "El tipo de cambio considerado Efectivo o de bolsillo es el efectivamente cobrado por el exportador y pagado por el importador y se calcula a partir del tipo de cambio nominal y los aranceles, gravámenes o derechos al comercio exterior que deba abonar.",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "El sistema de tipo de cambio:",
+    "options": [
+      {
+        "text": "Es fluctuante cuando lo determina el gobierno.",
+        "correct": false
+      },
+      {
+        "text": "Se refiere al conjunto de normas que regulan las transacciones nacionales.",
+        "correct": false
+      },
+      {
+        "text": "Es fijo cuando es producto del equilibrio de mercado.",
+        "correct": false
+      },
+      {
+        "text": "Puede ser flotante entre un piso y un techo, con intervención estatal cuando resulta mayor al valor superior o menor al inferior.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se entiende por Cuenta de Inversión:",
+    "options": [
+      {
+        "text": "Al Presupuesto que no pudo ejecutarse durante un periodo determinado.",
+        "correct": false
+      },
+      {
+        "text": "Al Plan de Gobierno aprobado mediante ley de Presupuesto para un período determinado.",
+        "correct": false
+      },
+      {
+        "text": "Al Presupuesto cuando no fue aprobado por ley.",
+        "correct": false
+      },
+      {
+        "text": "Al Presupuesto efectivamente ejecutado durante un periodo determinado, que debe aprobarse por ley.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "La Renta Nacional de un país:",
+    "options": [
+      {
+        "text": "Se calcula solamente a través del gasto público.",
+        "correct": false
+      },
+      {
+        "text": "Se calcula a través del producto ya que se relaciona con el Producto Bruto Interno (PBI).",
+        "correct": false
+      },
+      {
+        "text": "Puede calcularse desde el enfoque del producto, del gasto o del ingreso, de forma tal que se obtiene el mismo valor.",
+        "correct": true
+      },
+      {
+        "text": "Se calcula a través del ingreso ya que se relaciona con el Ingreso Neto Interno (YNI).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para calcular el ingreso público se consideran los Ingresos genuinos del sector público, donde los más importantes son los tributos o contribuciones que realizamos para el cumplimiento de los fines del Estado: seguridad, justicia, salud, educación, entre otros.",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se puede definir a la Inflación como el aumento sustancial, sostenido y continuo del nivel general de precios de los bienes y servicios de una economía en un período de tiempo determinado, el incremento debe ser importante en su cuantía, en forma repetida y constante o continua, no de forma ocasional.",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Cuando los países intercambian bienes:",
+    "options": [
+      {
+        "text": "No obtienen mayores ventajas a través del intercambio.",
+        "correct": false
+      },
+      {
+        "text": "Se benefician a través de economías de escala y crean una serie de ventajas significativas para la producción de esos bienes.",
+        "correct": true
+      },
+      {
+        "text": "No presentan diferencias en los gustos ni preferencias de cada sociedad.",
+        "correct": false
+      },
+      {
+        "text": "Solo lo hacen en los casos en que se encuentren en igualdad de producción.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "El gasto corriente es aquel que se destina a bienes de capital, cuya financiación supera un período fiscal.",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": false
+      },
+      {
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "El Producto Bruto Interno (PBI) se define como la sumatoria de:",
+    "options": [
+      {
+        "text": "Valor Agregado Bruto de Productos Finales.",
+        "correct": true
+      },
+      {
+        "text": "Consumo de las empresas del sector privado y Gasto del sector público.",
+        "correct": false
+      },
+      {
+        "text": "Valor Agregado Neto y Exportaciones Netas.",
+        "correct": false
+      },
+      {
+        "text": "Valor Agregado Bruto menos Depreciaciones.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Los Impuestos indirectos gravan:",
+    "options": [
+      {
+        "text": "El consumo, como el Impuesto al Valor Agregado (IVA)",
+        "correct": true
+      },
+      {
+        "text": "La renta y la propiedad como ganancias e inmobiliario.",
+        "correct": false
+      },
+      {
+        "text": "La propiedad como inmobiliario y automotores.",
+        "correct": false
+      },
+      {
+        "text": "La renta y las sucesiones.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "El desarrollo sostenible se define como aquel que respeta los recursos naturales, permite la regeneración de los ecosistemas, y se funda en tres aspectos fundamentales: social, económico y ambiental.",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "La variable macroeconómica Producto Bruto Interno (PBI) incluye en su cálculo:",
+    "options": [
+      {
+        "text": "Las actividades de voluntariado y externalidades positivas.",
+        "correct": false
+      },
+      {
+        "text": "Los bienes finales o de consumo generados por una economía.",
+        "correct": true
+      },
+      {
+        "text": "La distribución de la riqueza de la población.",
+        "correct": false
+      },
+      {
+        "text": "La contaminación ambiental, considerada una externalidad negativa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Indique cuáles de las siguientes variables macroeconómicas se consideran indicadores de desarrollo, pero no de calidad de vida:",
+    "options": [
+      {
+        "text": "Producto Bruto Interno (PBI) y Huella de Carbono",
+        "correct": false
+      },
+      {
+        "text": "Índice de Desarrollo Humano (IDH) y Huella Hídrica",
+        "correct": false
+      },
+      {
+        "text": "Curva de Lorenz y Producto Bruto Interno per cápita (PBI per cápita)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "En caso de déficit fiscal, para lograr el equilibrio el gobierno puede:",
+    "options": [
+      {
+        "text": "Aumentar los impuestos y disminuir el gasto público.",
+        "correct": true
+      },
+      {
+        "text": "Disminuir los impuestos y activar el sector privado.",
+        "correct": false
+      },
+      {
+        "text": "Aumentar el gasto corriente y así expandir la economía en general.",
+        "correct": false
+      },
+      {
+        "text": "Fijar nuevos impuestos para aumentar su recaudación y contraer la economía, afectando en particular al sector privado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "El principio de las ventajas comparativas sostiene que cada país se concentrará en la producción de los bienes en los que resulta mas eficiente respecto de otro, en consecuencia:",
+    "options": [
+      {
+        "text": "Exportará los bienes en los que resulte comparativamente menos eficiente.",
+        "correct": false
+      },
+      {
+        "text": "Importará bienes sin considerar su eficiencia productiva.",
+        "correct": false
+      },
+      {
+        "text": "Importará los bienes en los que resulte comparativamente mas eficiente.",
+        "correct": false
+      },
+      {
+        "text": "Exportará los bienes en los que resulte comparativamente más eficiente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Si la Inversión es el destino del ahorro, se puede afirmar que:",
+    "options": [
+      {
+        "text": "La Inversión de Reposición representa la depreciación del capital.",
+        "correct": true
+      },
+      {
+        "text": "La inversión Bruta Interna se calcula como la diferencia entre la Inversión Neta Interna y la Inversión de Reposición.",
+        "correct": false
+      },
+      {
+        "text": "Un aumento en la Inversión Bruta Interna implica una disminución del Producto Bruto Interno (PBI).",
+        "correct": false
+      },
+      {
+        "text": "Un país progresa cuando la Inversión Neta Interna es menor a cero.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "El ingreso (Y) privado se define como la sumatoria de los ingresos producidos por los factores: el alquiler de la tierra, el interés del capital y los salarios y beneficios por los servicios que presta.",
+    "options": [
+      {
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "text": "Falso",
+        "correct": false
+      }
+    ]
   }
   ]
   
